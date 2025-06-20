@@ -6,8 +6,11 @@ body {
   }
   
   img {
+    width: 150px;
+    height: auto;
     border-radius: 50%;
-    margin: 10px 0;
+    margin: 10px auto;
+    display: block;
   }
   
   button {
